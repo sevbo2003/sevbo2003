@@ -1,19 +1,30 @@
 <h1 align="center">Hi 👋, I'm Abdusamad</h1>
 <h3 align="center">I am Backend Engineer Based on Uzbekistan, Tashkent</h3>
 
+<!-- ![Love](https://spotify-recently-played-readme.vercel.app/api?user=31izxfxf6vixoccfya2wk2jmyrku&count=2) -->
 
 
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sevbo2003&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical) 
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
 
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical&border_color=#000000">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevbo2003&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevbo2003&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
-![Love](https://spotify-recently-played-readme.vercel.app/api?user=31izxfxf6vixoccfya2wk2jmyrku&count=2)
-
-
-
-        
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=sevbo2003&theme=redical">
+</p>
 
 
 
