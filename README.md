@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevbo2003&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
+![Love](https://spotify-recently-played-readme.vercel.app/api?user=31izxfxf6vixoccfya2wk2jmyrku&count=2)
+
 
 
         
