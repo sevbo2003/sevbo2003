@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdusamad</h1>
 <h3 align="center">I am Backend Engineer Based on Uzbekistan, Tashkent</h3>
+<!-- <h4 align="center">Nationality: Tajik    Date of birth: 2003-01-07    Email: sevbofx@gmail.com<h4>     -->
 
 <!-- ![Love](https://spotify-recently-played-readme.vercel.app/api?user=31izxfxf6vixoccfya2wk2jmyrku&count=2) -->
 
