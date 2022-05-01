@@ -4,13 +4,13 @@
 
 <!-- ![Love](https://spotify-recently-played-readme.vercel.app/api?user=31izxfxf6vixoccfya2wk2jmyrku&count=2) -->
 
-<!--
+
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>-->
+</p>
 
 <!-- <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
