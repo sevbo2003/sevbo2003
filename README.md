@@ -26,7 +26,8 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical&border_color=#000000">
+<!--   <img  src = "https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical&border_color=#000000"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=vision-friendly-dark" alt="Abdusamad(sevbo2003)" width="100%" >
 <!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevbo2003&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" /> -->
 </p>
 
