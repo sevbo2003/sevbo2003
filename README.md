@@ -4,9 +4,9 @@
 <p>👋 Welcome to my GitHub bio.<p>
   ✍️ I'm an 19 y.o experienced programmer(not a printer fixer) with several successful projects under my belt. <p>
     🇬
-      🇧 I'm based in Navoi, Uzbekistan. Curently living in Tashkent<p>✈️ I love to travel, especially to Django and Python conferences!<p>
+       I'm based in Navoi, Uzbekistan. Curently living in Tashkent<p>
         <p>
-          🔊 I love dark mode, open source, and side projects.<p>🖼️ When I'm not working, I like designing, sleeping listening music.<p>🤫 I hate watching anime and films.<p>🆘 So please don't write & talk me about this topics!.</p></p></p></p></p></p></p></p></p></p>
+          🔊 I love dark mode, open source, and side projects.<p>🖼️ When I'm not working, I like designing, sleeping listening music.<p>🤫 I hate watching anime and films.<p>🆘 So please don't write & talk me about this topics!.</p></p></p></p></p></p></p></p></p>
 <!-- <h4 align="center">Nationality: Tajik    Date of birth: 2003-01-07    Email: sevbofx@gmail.com<h4>     -->
 
 <!-- ![Love](https://spotify-recently-played-readme.vercel.app/api?user=31izxfxf6vixoccfya2wk2jmyrku&count=2) -->
