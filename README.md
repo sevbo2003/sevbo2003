@@ -45,6 +45,7 @@
 
 
 ## Latest blog posts
+* [Foydalanuvchining IP manzilini Django da olish](https://www.abdusamad.uz/foydalanuvchi-ip-manzilini-olish)(2022-05-22)
 * [Django loyihani ahost hosting ga yuklash](https://github.com/sevbo2003/common-python-problems/blob/master/django-proyektni-ahostga-yuklash.md) (2022-05-14)
 * [Django loyihani Herokuga yuklash bo'yicha qo'llanma](https://github.com/sevbo2003/common-python-problems/blob/master/djangoni-herokuga-yuklash.md)(2022-05-01)
 * [Djangoda static filelarning ishlamaslik muammosi](https://github.com/sevbo2003/common-python-problems/blob/master/django-static-filelar.md) (2022-04-22)
