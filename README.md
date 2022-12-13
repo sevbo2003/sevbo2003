@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdusamad</h1>
 <h3 align="center">I am Backend Engineer Based in Uzbekistan, Tashkent</h3>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7b01fc5200cf8a39e3b8ae6404e01830c7baf8ae4bc23c5ccc508d3a07f45c15/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b66493730536d64333851637174656c69482f67697068792e676966" alt="snake"></center>
+</p> -->
 
 <p>👋 Welcome to my GitHub bio.<p>
   ✍️ I'm an 19 y.o experienced programmer(not a printer fixer) with several successful projects under my belt. <p>
@@ -8,6 +11,7 @@
         <p>
           🔊 I love dark mode, open source, and side projects.<p>🖼️ When I'm not working, I like designing, sleeping listening music.<p>🤫 I hate watching anime and films.<p>🆘 So please don't write & talk me about this topics!.</p></p></p></p></p></p></p></p></p>
 <!-- <h4 align="center">Nationality: Tajik    Date of birth: 2003-01-07    Email: sevbofx@gmail.com<h4>     -->
+
 
 <!-- ![Love](https://spotify-recently-played-readme.vercel.app/api?user=31izxfxf6vixoccfya2wk2jmyrku&count=2) -->
 
