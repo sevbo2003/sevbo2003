@@ -6,7 +6,7 @@
 </p> -->
 
 <p>👋 Welcome to my GitHub bio.<p>
-  ✍️ I'm an 19 y.o experienced programmer(not a printer fixer) with several successful projects under my belt. <p>
+  ✍️ I'm an 20 y.o experienced programmer(not a printer fixer) with several successful projects under my belt. <p>
     🇬
        I'm based in Navoi, Uzbekistan. Curently living in Tashkent<p>
         <p>
